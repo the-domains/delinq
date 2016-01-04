@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[DELINQ]]></title>
         <description><![CDATA[DELINQ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/delinq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 03:34:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 00:55:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/delinq/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Did Philip K. Dick disclose the real Matrix in 1977?]]></title>
+            <description><![CDATA[<article><h1>Did Philip K. Dick disclose the real Matrix in 1977?</h1><p>http://www.amazon.com/7-Transmission-1-Kyle-Anderson/dp/1457991284 https://www.facebook.com/Theduderinok vid created by theduderinok. originally uploaded to my old channel</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=jXeVgEs4sOo</link>
+            <guid isPermaLink="false">51a5b155-8cc6-49ec-ae34-65f57bd5ae30</guid>
+            <pubDate>Mon, 04 Jan 2016 00:55:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cyberpunk Is Dead]]></title>
             <description><![CDATA[<article><h1>Cyberpunk Is Dead</h1><p>Tone piece for a show about how the things we thought were hard sci-fi in the 80's are actually becoming reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd8f6525e46186ddc68d917f7bc726dd3b893848.jpg"></article>]]></description>
