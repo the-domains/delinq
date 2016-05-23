@@ -4,8 +4,15 @@
         <description><![CDATA[DELINQ]]></description>
         <link>https://thegrid.ai/delinq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 14:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 18:23:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/delinq/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://static.propublica.org/projects/algorithmic-bias/assets/img/generated/opener-b-crop-2400*1350-00796e.jpg">]]></description>
+            <link>https://thegrid.ai/delinq/c307d315-e736-4fbc-8f68-a2ab95707213/index.html</link>
+            <guid isPermaLink="false">c307d315-e736-4fbc-8f68-a2ab95707213</guid>
+            <pubDate>Mon, 23 May 2016 18:23:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HYPER-REALITY]]></title>
             <description><![CDATA[<article><h1>HYPER-REALITY</h1><p>Hyper-Reality presents a provocative and kaleidoscopic new vision of the future, where physical and virtual realities have merged, and the city is saturated in media. If you are interested in supporting the project, sponsoring the next work or would like to find out more, please send a hello to info@km.cx.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db1db873f2b1a0cc2afe300e41573af5eebc76fe.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=jXeVgEs4sOo</link>
             <guid isPermaLink="false">51a5b155-8cc6-49ec-ae34-65f57bd5ae30</guid>
             <pubDate>Mon, 04 Jan 2016 00:55:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cyberpunk Is Dead]]></title>
-            <description><![CDATA[<article><h1>Cyberpunk Is Dead</h1><p>Tone piece for a show about how the things we thought were hard sci-fi in the 80's are actually becoming reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52961204f60d1fa4904f53a95f34ecedf57be204.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=_hX0KiS_b30&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">9936c86d-3dab-4e4d-b028-81ee2fe617b6</guid>
-            <pubDate>Mon, 14 Dec 2015 03:34:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
